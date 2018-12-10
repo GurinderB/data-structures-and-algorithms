@@ -19,7 +19,7 @@ const count = (target, input) => {
       if (item[i]===target) result.push(item[i]);
     }
   });
-  return result.length;
+  return result.length; 
 };
 
 /* ------------------------------------------------------------------------------------------------
